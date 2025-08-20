@@ -26,7 +26,7 @@
 ### Ссылки
 
 - URL решения: [GitHub Repository](https://github.com/Sergei-Popov/qr-code-component)
-- URL живого сайта: [Vercel Pages Demo]()
+- URL живого сайта: [Vercel Pages Demo](https://qr-code-component-two-virid.vercel.app)
 
 ## Процесс разработки
 
